@@ -1,1 +1,1 @@
-FROM xiaochunping/etcd:3.3.10
+FROM xiaochunping/etcd:3.3.15-0
